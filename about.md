@@ -1,6 +1,6 @@
 Hi! I'm North Lightning. Here you will find all my projects.
 
-# What languages do I program in?
+# What languages do I program on?
 
 I'm programming on:
 
