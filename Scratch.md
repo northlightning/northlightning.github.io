@@ -1,3 +1,3 @@
 layout: page
 title: "SCRATCH"
-permalink: /northlightning.github.io/
+permalink: /northlightning.github.io/scratch/
